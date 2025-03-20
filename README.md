@@ -60,7 +60,7 @@ This project is a web-based application that extracts key details from multiple 
 ```
 
 ## Deployment
-The application is deployed on Hugging Face Spaces. [Click here](#) to access it.
+The application is deployed on Hugging Face Spaces.
 
 ## Assumptions & Limitations
 - Only non-JavaScript-based websites are considered for scraping.
