@@ -15,8 +15,8 @@ This project is a web-based application that extracts key details from multiple 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/news-summarization-tts.git
-   cd news-summarization-tts
+   git clone https://github.com/ArunprabagarGJ/Company-News-Sentiment-Analyzer.git
+   cd Company-News-Sentiment-Analyzer
    ```
 2. Install dependencies:
    ```sh
@@ -24,7 +24,7 @@ This project is a web-based application that extracts key details from multiple 
    ```
 3. Run the application:
    ```sh
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 ## File Structure
